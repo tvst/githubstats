@@ -1,2 +1,2 @@
-streamlit==0.61.0
+streamlit-nightly
 requests==2.23.0
